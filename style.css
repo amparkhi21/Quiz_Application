@@ -8,44 +8,35 @@ body {
     align-items: center;
     height: 150vh;
 }
-
 .quiz-container {
     background-color: rgb(255, 194, 237);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgb(255, 39, 204); 
+    box-shadow: 0 0 15px rgb(255, 23, 201); 
     text-align: center;
     max-width: 600px;
     width: 100%;
 }
-
 #timer {
     font-size: 1.2em;
     margin-bottom: 10px;
     color: #ff009d; 
 }
-
 h1 {
     margin-bottom: 20px;
     color: #ff009d;
 }
-
 h4 {
     margin-bottom: 10px;
 }
-
 ul {
     list-style: none;
     padding: 0;
     text-align: left;
 }
-
-
 li {
     margin-bottom: 10px;
 }
-
-
 button {
     padding: 10px;
     background-color: #4CAF50; 
@@ -55,12 +46,9 @@ button {
     cursor: pointer;
     width: 100%;
 }
-
 button:hover {
     background-color: #3ae343;
 }
-
-
 #score {
     margin-top: 20px;
     font-size: 1.2em;
